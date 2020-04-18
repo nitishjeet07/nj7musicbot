@@ -1,4 +1,4 @@
-* scdlbot version:
+* nj7musicbot version:
 
 * Python version:
 
